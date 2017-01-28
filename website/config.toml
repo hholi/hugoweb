@@ -1,3 +1,7 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "Hallgeir Holien"
+baseurl = "http://hallgeirholien.no/"
+newContentEditor = "nano"
+theme = "nofancy"
+pygmentsStyle = "native"
+
