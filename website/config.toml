@@ -2,6 +2,6 @@ languageCode = "en-us"
 title = "Hallgeir Holien"
 baseurl = "http://hallgeirholien.no/"
 newContentEditor = "nano"
-theme = "nofancy"
+theme = "aerial"
 pygmentsStyle = "native"
 
