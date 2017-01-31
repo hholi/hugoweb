@@ -1,35 +1,36 @@
 languageCode = "en-us"
-title = "Hallgeir Holien"
+#title = "Hallgeir Holien"
 baseurl = "http://hallgeirholien.no/"
 newContentEditor = "nano"
-theme = "aerial"
+theme = "air"
 pygmentsStyle = "native"
+Title= "My blog is awesome"
+paginate = 5
+#DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
 
 
 [params]
   name = "Hallgeir Holien"
   about = "Hacker &nbsp;&bull;&nbsp; Maker &nbsp;&bull;&nbsp; Photographer"
-  copyright = "Hallgeir Holien"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "hholi"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-  
+  bg_scroll = "no"
+  description = "this is my description"
+  cover = "images/cover.jpg"
+  author = "Hallgeir Holien"
+  authorlocation = "Trondheim, Norway"
+  authorwebsite = "http://vjeantet.fr"
+  bio= "my bio"
+  logo = "images/logo.png"
+  #googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "hholi"
+  twitterName = "hallgeirholien"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "hallgeirholien"
