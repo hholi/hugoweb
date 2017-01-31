@@ -11,7 +11,7 @@ pygmentsStyle = "native"
   about = "Hacker &nbsp;&bull;&nbsp; Maker &nbsp;&bull;&nbsp; Photographer"
   copyright = "Hallgeir Holien"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
+  bg_scroll = "no"
 
 [[params.social]]
   medium = "Twitter"
@@ -26,10 +26,10 @@ pygmentsStyle = "native"
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "hholi"
+  link = "https://github.com/hholi"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "email:post@hallgeirholien.no"
   
