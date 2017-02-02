@@ -1,11 +1,11 @@
 +++
 author = "HH"
-menu = "Gallery"
+menu = "main"
 slug = "post-title"
 comments = true
-date = "2014-07-11T10:54:24+02:00"
+date = "2017-01-29T10:54:24+02:00"
 tags = ["tag1","tag2"]
-title = "Post title"
+title = "Another test"
 share = true
 image = ""
 draft = false

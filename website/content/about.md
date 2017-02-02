@@ -2,7 +2,7 @@
 draft = false
 date = "2017-01-28T21:40:41+01:00"
 title = "About me"
-
+menu = "main"
 +++
 
 Hello and welcome to my site!
