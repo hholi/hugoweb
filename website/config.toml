@@ -1,35 +1,44 @@
 languageCode = "en-us"
-title = "Hallgeir Holien"
+#title = "Hallgeir Holien"
 baseurl = "http://hallgeirholien.no/"
-newContentEditor = "nano"
-theme = "aerial"
+newContentEditor = "sublime_text"
+theme = "casper"
 pygmentsStyle = "native"
+Title= "Welcome"
+paginate = 5
+#DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
 
 
 [params]
   name = "Hallgeir Holien"
-  about = "Hacker &nbsp;&bull;&nbsp; Maker &nbsp;&bull;&nbsp; Photographer"
-  copyright = "Hallgeir Holien"
+  about = "Hacker &nbsp;&bull;&nbsp; Developer &nbsp;&bull;&nbsp; Photographer"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "no"
-
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/hholi"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "email:post@hallgeirholien.no"
-  
+  description = "Gallery - tech recipes - tech notes"
+  cover = "/images/bg.jpg"
+  author = "Hallgeir Holien"
+  authorlocation = "Trondheim, Norway"
+  authorwebsite = "http://hallgeirholien.no/"
+  #bio= "my bio"
+  #logo = "images/logo.png"
+  #googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  githubName = "hholi"
+  flickrName = "77311996@N04"
+  twitterName = "HallgeirHolien"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "hallgeirholien"
