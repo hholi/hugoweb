@@ -1,6 +1,6 @@
 languageCode = "en-us"
 #title = "Hallgeir Holien"
-baseurl = "https://hallgeirholien.no/"
+baseurl = "https://www.hallgeirholien.no/"
 newContentEditor = "sublime_text"
 theme = "casper"
 pygmentsStyle = "native"
