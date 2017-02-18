@@ -22,5 +22,3 @@ def hello_world():
     print "Hello there!"
 {{< /highlight >}}
 
-
-Test of webhook 6.
