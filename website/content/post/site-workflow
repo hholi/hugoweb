@@ -1,0 +1,26 @@
++++
+comments = true
+draft = true
+share = true
+slug = "site-workflow"
+author = ""
+menu = "Workflow"
+tags = ["Hugo","Lightroom","github"]
+image = ""
+title = "My "
+date = "2017-02-19"
+
++++
+
+# How my site is updated
+
+This will serve as my reference a
+
+## Step by step
+
+## Prepare images in Lightroom
+The selected images is exported in small and compressed format suitable for web.
+
+
+## Auto deploy
+When checking in changes to the github master branch the server I use update the web pages provided. This is done via a webhook that github use.
