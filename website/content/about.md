@@ -16,3 +16,4 @@ Hello and welcome to my site!
 ## A Bit About Me
 
 I'm a fan of static sites.
+And continuous delivery.
