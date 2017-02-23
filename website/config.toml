@@ -4,6 +4,8 @@ baseurl = "https://www.hallgeirholien.no/"
 newContentEditor = "sublime_text"
 theme = "casper"
 pygmentsStyle = "monokai"
+PygmentsCodeFences = true
+
 Title= "Welcome"
 paginate = 5
 #DisqusShortname = "YOUR_SHORT_NAME_HERE"
