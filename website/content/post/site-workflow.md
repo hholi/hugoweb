@@ -29,7 +29,7 @@ The first section in the md file is the frontmatter with the post metadata:
 ```js
 +++
 comments = true  
-draft = true  
+draft = false  
 share = true
 slug = ""
 author = ""
