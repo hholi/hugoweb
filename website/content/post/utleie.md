@@ -13,21 +13,10 @@ slug = "utleie"
 +++
 
 
-Fasiliteter:  
-- Parkeringsplass  
-- Delvis møblert  
-- Bredbåndstilknytning  
-- Kabel-TV  
-- Rolig  
-- Moderne  
-- Parkett  
-- Utsikt  
-- Balkong/Terrasse  
-- Turterreng  
 
+Leiligheten er på 44 kvadratmeter og inneholder lunt og trivelig flislagt bad med varmekabler i gulv. Eget vaskerom/bod med lagerplass og plass til tørkestativ. Vaskerommet inneholder hylleplass, skyllekum og ny vaskemaskin, 8kg, ekstra fokus på lavt støynivå og energibesparing.  
 
-
-Leiligheten inneholder lunt og trivelig flislagt bad med varmekabler i gulv. Eget vaskerom/bod med lagerplass og plass til tørkestativ. Vaskerommet inneholder hylleplass, skyllekum og ny vaskemaskin, 8kg, ekstra fokus på lavt støynivå og energibesparing.
+![Leilighet](/images/utleie-5.jpg)
 
 Fra soverommet har du utsikt ut over fjorden.
 Soverommet har nytt klesskap med speil og skyvedører.
@@ -51,13 +40,24 @@ Til Værnes lufthavn: 25 min
 
 Vi ønsker leietaker/e som ikke røyker eller har dyr.
 
+Fasiliteter:  
+- Parkeringsplass  
+- Delvis møblert  
+- Bredbåndstilknytning  
+- Kabel-TV  
+- Rolig  
+- Moderne  
+- Parkett  
+- Utsikt  
+- Balkong/Terrasse  
+- Turterreng  
 
-![Leilighet](/images/utleie-5.jpg)
+
 
 ![Leilighet](/images/utleie-1.jpg)
-![Leilighet](/images/utleie-2.jpg)
 ![Leilighet](/images/utleie-3.jpg)
 ![Leilighet](/images/utleie-4.jpg)
+![Leilighet](/images/utleie-2.jpg)
 ![Leilighet](/images/utleie-6.jpg)
 ![Leilighet](/images/utleie-7.jpg)
 ![Leilighet](/images/utleie-8.jpg)
@@ -67,6 +67,7 @@ Vi ønsker leietaker/e som ikke røyker eller har dyr.
 Bad  
 ![Leilighet](/images/utleie-14.jpg)
 ![Leilighet](/images/utleie-15.jpg)
+![Leilighet](/images/utleie-13.jpg)
 
     
 
@@ -75,7 +76,6 @@ Vaskerom
 ![Leilighet](/images/utleie-16.jpg)
 ![Leilighet](/images/utleie-17.jpg)
 
-![Leilighet](/images/utleie-13.jpg)
 
 Marka er tilgjengelig like ved huset
 
