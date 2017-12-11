@@ -26,7 +26,7 @@ canonifyurls = true
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "no"
   description = "Gallery - tech recipes - tech notes"
-  cover = "/images/bg.jpg"
+  cover = "/images/large_Reach.jpg"
   author = "Hallgeir Holien"
   authorlocation = "Trondheim, Norway"
   authorwebsite = "https://hallgeirholien.no/"
