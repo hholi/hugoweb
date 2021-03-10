@@ -1,0 +1,15 @@
+[submodule "website/themes/casper"]
+	path = website/themes/casper
+	url = git@github.com:vjeantet/hugo-theme-casper.git
+[submodule "website/themes/ananke"]
+	path = website/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "website/themes/meghna"]
+	path = website/themes/meghna
+	url = https://github.com/themefisher/meghna-hugo.git
+[submodule "website/themes/casper3"]
+	path = website/themes/casper3
+	url = https://github.com/jonathanjanssens/hugo-casper3.git
+[submodule "website/themes/airspace"]
+	path = website/themes/airspace
+	url = https://github.com/themefisher/airspace-hugo.git
